@@ -1,5 +1,5 @@
 # Machine-Learning
-tag:#Image Classification
+#Image Classification
 
 ### Data-set
 https://www.kaggle.com/datasets/kmader/food41 
