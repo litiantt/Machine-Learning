@@ -1,5 +1,5 @@
 # Machine-Learning
-#Image Classification
+- ***Image Classification(CNN):*** ***mobilenetv2 model***
 
 ### Data-set
 https://www.kaggle.com/datasets/kmader/food41 
